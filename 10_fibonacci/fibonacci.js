@@ -5,8 +5,6 @@ const fibonacci = function(position) {
   let sumNumber = +position;
   let positionToNumber = +position;
 
-  console.log(position)
-
 if(position < 0) {
   return "OOPS";
   
